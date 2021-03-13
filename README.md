@@ -12,7 +12,7 @@ Usando:
 * H2
 * Spring data jpa
 
-O Projeto consiste em duas api que através de chamadas rest trocam dados persistidos em banco, inviando de forma paginada os dados.
+O Projeto consiste em duas api que através de chamadas rest trocam dados persistidos em banco, enviando de forma paginada os dados.
 
 Para requisição paginada:
 
